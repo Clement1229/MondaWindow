@@ -47,8 +47,7 @@
 		<dependency>
 			<groupId>com.googlecode.json-simple</groupId>
 			<artifactId>json-simple</artifactId>
-			<version>1.1.1</version>
-		</dependency>
+			</dependency>
 
 		<dependency>
 			<groupId>javax.servlet</groupId>
@@ -140,15 +139,15 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-expression</artifactId>
-			<version>5.0.1.RELEASE</version>
-		</dependency>
+			</dependency>
 
 		<!-- https://mvnrepository.com/artifact/com.github.noraui/ojdbc7 -->
-		<dependency>
-			<groupId>com.github.noraui</groupId>
-			<artifactId>ojdbc7</artifactId>
-			<version>12.1.0.2</version>
-		</dependency>
+		<!-- <dependency>
+		    <groupId>com.github.noraui</groupId>
+		    <artifactId>ojdbc7</artifactId>
+		    <version>12.1.0.2</version>
+		</dependency> -->
+
 
 	</dependencies>
   
