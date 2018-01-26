@@ -9,7 +9,7 @@ public class HomepageCtrl {
 	@RequestMapping("/")
 	public String index() {
 		System.out.println("index method();");
-		return "/static/features/home/home.html";
+		return "/static/features/home/index.html";
 	}
 	
 }
